@@ -1,0 +1,2 @@
+1) cd door_management_files/door_configuration/
+2) nano door_1.conf => ^\ => CLOSED => OPEN => Y => ^O => ^X
